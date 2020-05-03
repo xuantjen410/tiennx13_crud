@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tran Nam B c",
+      "email": "anhtn39@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "NOKIA 4",
+      "price": 30,
+      "quantity": 20
+    },
+    {
+      "id": 3,
+      "name": "Samsung s7",
+      "price": 30,
+      "quantity": 20
+    },
+    {
+      "id": 167,
+      "name": "Test pro",
+      "price": 3232,
+      "quantity": 32
+    },
+    {
+      "id": 196,
+      "name": "ipod 2",
+      "email": "rubik6958@gmail.com"
+    },
+    {
+      "id": 162,
+      "name": "test -as-dasdsa",
+      "price": 1,
+      "quantity": 1
+    },
+    {
+      "id": 181,
+      "name": "acvcv",
+      "price": 1,
+      "quantity": 1
+    },
+    {
+      "id": 178,
+      "name": "aaa",
+      "price": 1,
+      "quantity": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Tran Nam B1 b",
+      "email": "anhtn39@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Tran Nam A",
+      "email": "anhtn39@gmail.com"
+    },
+    {
+      "id": 101,
+      "name": "Tran Van Hoan 1",
+      "email": "123"
+    },
+    {
+      "id": 196,
+      "name": "ipod",
+      "email": "rubik6958@gmail.com"
+    },
+    {
+      "id": 147,
+      "name": "asdas 11111",
+      "email": "asd"
+    },
+    {
+      "id": 153,
+      "name": "131312",
+      "email": "asdasdasd 11111"
+    }
+  ]
+}
